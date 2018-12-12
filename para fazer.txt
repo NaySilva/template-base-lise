@@ -1,0 +1,23 @@
+[ ] Planos de negócios
+    [ ] Lista de negócios
+    [ ] Opção de editar e apagar para cada negócio
+    [ ] Link de cadastro de negócio
+    [ ] Sugerir negócio
+[ ] Dashboard do negócio
+    [x] Quantidade de objetos: concorrentes, avaliações e tópicos
+    [x] Principais tópicos
+    [ ] Polaridade dos tópicos
+    [ ] Avaliações de cada tópico
+    [x] Sugestões de outros lugares
+	[ ] Todas sugestões
+    [ ] Horário de funcionamento
+    [x] Mapa de calor
+    [ ] Tipos de Contatos
+[ ] Minha empresa
+    [ ] Polaridade dos tópicos
+    [ ] Avaliações de cada tópicos
+    [ ] Sugestões
+[ ] Cadastro de negócio
+[ ] Extras
+    [ ] Negócio não analisado ainda
+    [ ] Notificações
